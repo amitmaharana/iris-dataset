@@ -12,4 +12,4 @@ Demonstration of Machine Learning concepts using the classic Iris dataset compri
 * Jupyter Notebook
 * Scikit-learn
 * Matplotlib
-* Numpy
+* NumPy
